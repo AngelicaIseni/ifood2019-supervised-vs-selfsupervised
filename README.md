@@ -1,4 +1,4 @@
-![Food Recognition banner](docs/banner.svg)
+![Food Recognition banner](Docs/banner.svg)
 # Food Recognition with Custom CNNs: Supervised vs Self-Supervised Pretraining
 
 Fine-grained food classification on the [iFood-2019](https://www.kaggle.com/c/ifood-2019-fgvc6) dataset (251 classes, ~118K training images), comparing three custom convolutional networks trained from scratch and via transfer learning against two self-supervised pretraining strategies (colorization and SimCLR-style contrastive learning), all under a 10M-parameter budget.
