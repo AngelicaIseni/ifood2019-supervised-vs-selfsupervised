@@ -5,7 +5,7 @@ Fine-grained food classification on the [iFood-2019](https://www.kaggle.com/c/if
 
 ## Overview
 
-We train and compare five encoders on the same food classification task:
+We trained and compared five encoders on the same food classification task:
 
 - **Base net** : a plain 5-block CNN (1.04M params), trained from scratch
 - **Medium net** : a residual CNN (5.03M params), trained from scratch, tested with dropout 0.3 and 0.5
